@@ -8,8 +8,8 @@ Just clone the repo in a directory of your choosing. Preferably on Linux.
 
 
 ###Overview
-####examples/ 
+####[examples/](https://github.com/knowlen/CSCI412_TA/tree/master/examples) 
 Includes examples for command line arguments and outputs for relevant scripts.
-####scripts/ 
+####[scripts/](https://github.com/knowlen/CSCI412_TA/tree/master/scripts) 
 Includes scripts for grading and pre-processing the survey forms. 
 
