@@ -1,0 +1,9 @@
+Nick Knowles
+Peer evaluation #1
+
+
+7632:
+    I liked the use of semaphores in this person's code. 
+
+
+ 

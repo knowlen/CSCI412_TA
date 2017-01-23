@@ -1,0 +1,14 @@
+John Smith
+Peer review 1
+7862:
+I don't think this app worked as intended.
+
+Nick Knowles
+Peer evaluation #1
+
+
+7632:
+    I liked the use of semaphores in this person's code. 
+
+
+ 
