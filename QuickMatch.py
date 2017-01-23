@@ -16,15 +16,22 @@
 #   more than a few seconds. 
 #** File output when ran in Cygwin is
 #   wrong (no \n). Correct in IDLE though. 
-
+import argparse
 from random import *
+
+parser = argparse.ArgumentParser()
+parser.add_argument("names_file", help="path to file containing names of students (copy/paste from canvas People page).")
+parser.add_argument("out_dir", help="path to directory you want keys saved.")
+args = parser.parse_args()
+
+
 
 nameMap ={} #map ID token -> actual names
 countMap ={} #map ID token -> count
 peerMap = {} #map ID -> peer ID
 count = 7608 #ID token start point
 idStart = count # grading token: 76   
-nameData = open('names.txt')
+nameData = open(args.names_file)
 for line in nameData:
     if("Student" in line):
         #add the line below to HM
@@ -48,9 +55,12 @@ for x in range(idStart, count):
 
 
 
-peerFile = open("412PeerMap1.txt", "w")
-keyFile = open("412NameKey1.txt", "w")
-testFile = open("412testFile1.txt", "w")
+out_file = args.out_dir 
+if not out_file.endswith("/"):
+    out_file = out_file + "/"
+peerFile = open(out_file + "412PeerMap1.txt", "w")
+keyFile = open(out_file + "412NameKey1.txt", "w")
+testFile = open(out_file + "412testFile1.txt", "w")
 for x in range(idStart, count):
     #z = "name: idNumber" eg; "Nick: 7698"
     z = (str(x) + ": " + nameMap[str(x)])
@@ -69,7 +79,9 @@ for x in range(idStart, count):
 keyFile.close()
 peerFile.close()
 testFile.close()
-print(keyFile)
-print(peerFile)
-print(testFile)
+#print(keyFile)
+#print(peerFile)
+#print(testFile)
+cmd = "cat " + out_file + "*.txt"
+os.systemn(cmd)
 print("done")
