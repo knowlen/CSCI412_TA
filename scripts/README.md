@@ -16,7 +16,7 @@ Please unzip all surveys into one centralized folder. **toText.sh** will do most
 ##### Grading
 Grading is done with pvgrader.py and parser.py. 
 
-####Overview
+####Documentation
 * *toText.sh*   
 This script converts all .pdf and .docx files of a specified directory (input\_directory) into .txt, and concatinates all peer evaulations into one text file.  
 Usage `$./toText.sh input_directory`  
@@ -24,9 +24,14 @@ Arguements/Flags: [-h] input\_directory
 input\_directory: Path to the folder containing   
 
 * *QuickMatch.py*   
-Creates anonymous student pairings for peer review, as well as an assigned key value for each student.
+Creates anonymous student pairings for peer review, as well as an assigned key value for each student.  
+Usage: 
+Arguements/Flage:  
 
-
-####scripts/ 
-Includes scripts for grading and pre-processing the survey forms. 
+* *parser.py*   
+Usage:  
+Arguements/Flage:  
+* *pvgrader.py* 
+Usage:    
+Arguements/Flage:  
 
