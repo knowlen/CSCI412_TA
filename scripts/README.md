@@ -3,7 +3,10 @@ Scripts Directory
 
 
 ##### Generating anonymous peer review matches 
-Copy/paste the People page (from "Name"-\>bottom of webpage) of the class Canvas into a text editor (Vim or Mousepad recommended), save to file. Pass this file and an output directory to **QuickMatch.py**, `$./QuickMatch.py names_file output_dir`. This will create 3 files which represent 1 student-\>3 student pairings, and the randomized key value assigned to each student. 
+Copy/paste the People page (from "Name"-\>bottom of webpage) of the class Canvas into a text editor (Vim or Mousepad recommended), save to file.  
+Pass this file and an output directory to **QuickMatch.py**,  
+`$./QuickMatch.py names_file output_dir`.  
+This will create 3 files which represent 1 student-\>3 student pairings, and the randomized key value assigned to each student. 
 
 
 ##### Pre-processing survey forms
@@ -14,9 +17,7 @@ Grading is done with pvgrader.py and parser.py.
 
 ####Overview
 * *toText.sh*   
-This script converts all .pdf and .docx files of a specified directory (input\_directory) into .txt, and concatinates all peer evaulations into one text file.
-
-
+This script converts all .pdf and .docx files of a specified directory (input\_directory) into .txt, and concatinates all peer evaulations into one text file.  
 Usage `$./toText.sh input_directory`  
 Arguements/Flags: [-h] input\_directory  
 input\_directory: Path to the folder containing   
