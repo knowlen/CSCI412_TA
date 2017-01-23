@@ -24,15 +24,15 @@ Arguements/Flags: [-h], input\_directory
 input\_directory: Path to the folder containing   
 
 * *QuickMatch.py*   
-Creates anonymous student pairings for peer review, as well as an assigned key value for each student.  
-Usage: `$python QuickMath.py names_file out_dir`   
-Arguements/Flage: names\_file, out\_dir 
+Creates anonymous student pairings for peer review, as well as an assigned key value for each student.    
+Usage: `$python QuickMath.py names_file out_dir`     
+Arguements/Flage: names\_file, out\_dir   
 
 * *parser.py*   
-Usage: `$python parser.py` 
-Arguements/Flage:  
+Usage: `$python parser.py`  
+Arguements/Flage:    
 
-* *pvgrader.py* 
+* *pvgrader.py*  
 Usage:    
 Arguements/Flage:  
 
