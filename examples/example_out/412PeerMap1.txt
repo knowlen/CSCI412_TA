@@ -1,0 +1,210 @@
+David Abajian
+ [7676, 7654, 7667]
+
+Sameen Ahmad
+ [7633, 7673, 7634]
+
+Adam Amr
+ [7643, 7613, 7653]
+
+Dayne Andersen-Davis
+ [7671, 7658, 7662]
+
+Allison Anderson
+ [7657, 7613, 7614]
+
+Jordan Armstrong
+ [7630, 7639, 7676]
+
+Kirsten Basinet
+ [7649, 7612, 7672]
+
+Jessica Betts
+ [7651, 7635, 7614]
+
+Logan Bridges
+ [7662, 7623, 7673]
+
+Christian Brintnall
+ [7638, 7624, 7633]
+
+Wyatt Chapman
+ [7614, 7649, 7635]
+
+Cedrick
+ [7674, 7664, 7653]
+
+Arturo Diaz
+ [7670, 7674, 7617]
+
+Trevor Donnelly
+ [7654, 7652, 7656]
+
+Alex Emanuelson
+ [7645, 7653, 7624]
+
+Hannah Fink
+ [7626, 7655, 7666]
+
+William Fleetwood
+ [7655, 7648, 7675]
+
+Michael Grammens
+ [7618, 7657, 7620]
+
+Paul Gunn
+ [7619, 7675, 7630]
+
+Gavin Harris
+ [7626, 7618, 7645]
+
+Joseph Hausman
+ [7675, 7666, 7657]
+
+Travis Heller
+ [7652, 7655, 7658]
+
+myklhenn
+ [7625, 7615, 7659]
+
+Jordan Hill
+ [7617, 7648, 7659]
+
+Filip Jagodzinski
+ [7634, 7677, 7650]
+
+Yusheng Jiang
+ [7635, 7651, 7639]
+
+Sara Johnson
+ [7628, 7671, 7663]
+
+Nick Knowles
+ [7636, 7633, 7613]
+
+Zachary Lazar
+ [7662, 7641, 7647]
+
+Nguyen Le
+ [7648, 7677, 7669]
+
+Alexander Lee
+ [7617, 7666, 7631]
+
+Daniel Lee
+ [7623, 7644, 7649]
+
+Josh Loehr
+ [7616, 7639, 7627]
+
+John Mace
+ [7616, 7673, 7652]
+
+Nicholas Majeske
+ [7632, 7610, 7664]
+
+Margot Maxwell
+ [7616, 7671, 7640]
+
+Ray McDougall
+ [7654, 7620, 7629]
+
+Hannah Montague
+ [7612, 7623, 7624]
+
+Bryan Moore
+ [7664, 7636, 7611]
+
+Quinn Murphy
+ [7668, 7634, 7670]
+
+Nicholas Nansen
+ [7674, 7644, 7659]
+
+Moustafa Naquib
+ [7670, 7637, 7618]
+
+Edward Nestor
+ [7632, 7661, 7637]
+
+Dong-Ha Nguyen
+ [7660, 7638, 7668]
+
+Jim Nguyen
+ [7644, 7669, 7646]
+
+Kody Nguyen
+ [7667, 7619, 7608]
+
+Vincent Nguyen
+ [7629, 7611, 7669]
+
+Joshua Northouse
+ [7656, 7611, 7667]
+
+Mason Phillips
+ [7632, 7609, 7636]
+
+Michael Popkins
+ [7646, 7656, 7612]
+
+Michael Potter
+ [7622, 7642, 7610]
+
+Samuel Quann
+ [7658, 7620, 7677]
+
+Hunter Read
+ [7641, 7619, 7637]
+
+Scott Reeves
+ [7647, 7665, 7628]
+
+Carson Reykdal
+ [7642, 7615, 7626]
+
+Graham Roberts
+ [7625, 7645, 7627]
+
+Elliott Skomski
+ [7646, 7630, 7672]
+
+Oliver Smith-Denny
+ [7627, 7661, 7650]
+
+Eric Stukenberg
+ [7668, 7631, 7665]
+
+Luke Terry
+ [7625, 7642, 7665]
+
+Austin Tipton
+ [7608, 7660, 7615]
+
+Summer Turner
+ [7609, 7628, 7651]
+
+Alvin Ung
+ [7641, 7650, 7622]
+
+Lila Van Court
+ [7660, 7608, 7629]
+
+Khoi Vu
+ [7609, 7631, 7638]
+
+Jonah Wallace
+ [7621, 7610, 7663]
+
+Paul Weidner
+ [7640, 7676, 7643]
+
+Tim Woods
+ [7661, 7640, 7622]
+
+Emily Wright
+ [7621, 7672, 7643]
+
+Lai Yan Yung
+ [7663, 7647, 7621]
+
