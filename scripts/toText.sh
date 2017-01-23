@@ -1,43 +1,61 @@
 #!/bin/bash
+# Author: Nick Knowles (knowlen@wwu.edu)
+# Date: 04/30/2016
+# Western Washington University 
+# Department of Computer Science
 
-#a: nick knowles
-#d: 04/30/2016
+if [ $1 == "-h" ]; then
+    echo "usage: totext.sh target_directory"
+    echo "target_directory: The folder containing files to be converted."
+    echo "                  Make sure to unzip everything!."
+    exit 0
+fi
 
-#file structure for this is:
-#00pv>raw>allfiles
-#1) extract everything to allfiles
-#2) cd to allfiles 
-#3) run this script
+DIR=$1
+if [[ $DIR != */ ]]; then
+    DIR=$DIR/
+    echo "     "$DIR
+fi
+chmod 770 $DIR
+chmod 770 $DIR*.docx;
+chmod 770 $DIR*.pdf;
+chmod 770 $DIR*.txt;
 
+WORKING=$DIR'text_conversion/'
 
-chmod 777 *.docx;
-chmod 777 *.pdf;
-chmod 777 *.txt;
+mkdir $WORKING
+
+cp $DIR/*.pdf $WORKING
+cp $DIR/*.docx $WORKING
+cp $DIR/*.txt $WORKING
+
+cd $WORKING
 
 files=*.pdf
 for i in $files; do
 	pdftotext $i;
 done
-mkdir ptexts;
-mv *.txt ptexts;
+
+mkdir pdf_texts;
+mv *.txt pdf_texts;
 
 
 soffice --headless --convert-to txt *.docx;
-mkdir dtexts;
-mv *.txt dtexts;
+mkdir doc_texts;
+mv *.txt doc_texts;
 
 ls | wc;
-ls dtexts | wc;
-ls ptexts | wc;
+ls doc_texts | wc;
+ls pdf_texts | wc;
 
 
-cd ptexts; 
-cat *.txt >> ./../../allp.txt;
-cd ../dtexts;
-cat *.txt >> ./../../alld.txt;
+cd pdf_texts; 
+cat *.txt >> ./../../all_pdfs.txt;
+cd ../doc_texts;
+cat *.txt >> ./../../all_docs.txt;
 cd ./../..;
 cat *.txt >> all.txt;
 
 
-echo "Done! Converted files can be found in \"texts\" folder "
-
+echo "Done! Converted files can be found in $WORKING "
+exit 1

@@ -1,21 +1,19 @@
-# Author: Nick Knowles
+# Author: Nick Knowles (knowlen@wwu.edu)
 # Date: Spring 2016
 # Western Washington University 
+# Department of Computer Science
 
 
-# this script was used to facilitate anonymous
-# peer-review matchups for CSCI412 Spring
-# quarter 2016.
+# notes:
+# ** Script can hang on the random number loop (due to how it's 
+#    assigning matches) -I wrote this when I was still learning 
+#    Python & everything is brute force.
+#    Just kill the process (ctrl+c) and run script again if it stalls. 
+#
+# ** File output when ran in Cygwin is wrong (no \n). 
+#    Correct if ran through IDE though. 
 
-# dev notes:
-#** Script will sometimes hang on the
-#   random number loop (due to how it's 
-#   assigning matches; sometimes last
-#   IDs left will not break loop).
-#   Solution = kill and run again if stalls
-#   more than a few seconds. 
-#** File output when ran in Cygwin is
-#   wrong (no \n). Correct in IDLE though. 
+
 import argparse
 import os
 from random import *

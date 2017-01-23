@@ -1,4 +1,9 @@
-#!/bin/usr/env python
+# Author: Nick Knowles (knowlen@wwu.edu)
+# Date: 04/30/2016
+# Western Washington University 
+# Department of Computer Science
+
+
 nameMap = {}
 count = {}
 file = open('nameKey.txt', 'r')
