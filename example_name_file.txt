@@ -1,0 +1,428 @@
+David Abajian
+	David Abajian 	
+11654
+	
+Student
+	
+Sameen Ahmad
+	Sameen Ahmad 	
+11654
+	
+Student
+	
+Adam Amr
+	Adam Amr 	
+11654
+	
+Student
+	
+Dayne Andersen-Davis
+	Dayne Andersen-Davis 	
+11654
+	
+Student
+	
+Allison Anderson
+	Allison Anderson 	
+12091
+	
+Student
+	
+Jordan Armstrong
+	Jordan Armstrong 	
+11654
+	
+Student
+	
+Kirsten Basinet
+	Kirsten Basinet 	
+12091
+	
+Student
+	
+Jessica Betts
+	Jessica Betts 	
+12091
+	
+Student
+	
+Logan Bridges
+	Logan Bridges 	
+11654
+	
+Student
+	
+Christian Brintnall
+	Christian Brintnall 	
+11654
+	
+Student
+	
+Wyatt Chapman
+	Wyatt Chapman 	
+11654
+	
+Student
+	
+Cedrick
+	Cedrick Cooke 	
+11654
+	
+Student
+	
+Arturo Diaz
+	Arturo Diaz 	
+11654
+	
+Student
+	
+Trevor Donnelly
+	Trevor Donnelly 	
+12091
+	
+Student
+	
+Alex Emanuelson
+	Alex Emanuelson 	
+11654
+	
+Student
+	
+Hannah Fink
+	Hannah Fink 	
+12091
+	
+Student
+	
+William Fleetwood
+	William Fleetwood 	
+11654
+	
+Student
+	
+Michael Grammens
+	Michael Grammens 	
+11654
+	
+Student
+	
+Paul Gunn
+	Paul Gunn 	
+12091
+	
+Student
+	
+Gavin Harris
+	Gavin Harris 	
+11654
+	
+Student
+	
+Joseph Hausman
+	Joseph Hausman 	
+12091
+	
+Student
+	
+Travis Heller
+	Travis Heller 	
+11654
+	
+Student
+	
+myklhenn
+	Michael Henning 	
+11654
+	
+Student
+	
+Jordan Hill
+	Jordan Hill 	
+12091
+	
+Student
+	
+Filip Jagodzinski
+	Filip Jagodzinski 	
+12091
+11654
+	
+Teacher
+Teacher
+	
+Christine Jang
+	Christine Jang 	
+12091
+	
+Student
+	
+Yusheng Jiang
+	Yusheng Jiang 	
+11654
+	
+Student
+	
+Sara Johnson
+	Sara Johnson 	
+12091
+	
+Student
+	
+Nick Knowles
+	Nick Knowles 	
+11654
+	
+Student
+	
+Zachary Lazar
+	Zachary Lazar 	
+11654
+	
+Student
+	
+Nguyen Le
+	Nguyen Le 	
+11654
+	
+Student
+	
+Alexander Lee
+	Alexander Lee 	
+12091
+	
+Student
+	
+Daniel Lee
+	Daniel Lee 	
+11654
+	
+Student
+	
+Josh Loehr
+	Josh Loehr 	
+11654
+	
+Student
+	
+John Mace
+	John Mace 	
+11654
+	
+Student
+	
+Nicholas Majeske
+	Nicholas Majeske 	
+11654
+	
+Student
+	
+Margot Maxwell
+	Margot Maxwell 	
+11654
+	
+Student
+	
+Ray McDougall
+	Ray McDougall 	
+11654
+	
+Student
+	
+Hannah Montague
+	Hannah Montague 	
+12091
+	
+Student
+	
+Bryan Moore
+	Bryan Moore 	
+12091
+	
+Student
+	
+Quinn Murphy
+	Quinn Murphy 	
+12091
+	
+Student
+	
+Nicholas Nansen
+	Nicholas Nansen 	
+11654
+	
+Student
+	
+Moustafa Naquib
+	Moustafa Naquib 	
+11654
+	
+Student
+	
+Edward Nestor
+	Edward Nestor 	
+12091
+	
+Student
+	
+Dong-Ha Nguyen
+	Dong-Ha Nguyen 	
+12091
+	
+Student
+	
+Jim Nguyen
+	Jim Nguyen 	
+11654
+	
+Student
+	
+Kody Nguyen
+	Kody Nguyen 	
+12091
+	
+Student
+	
+Vincent Nguyen
+	Vincent Nguyen 	
+12091
+	
+Student
+	
+Joshua Northouse
+	Joshua Northouse 	
+11654
+	
+Student
+	
+Mason Phillips
+	Mason Phillips 	
+12091
+	
+Student
+	
+Michael Popkins
+	Michael Popkins 	
+11654
+	
+Student
+	
+Michael Potter
+	Michael Potter 	
+12091
+	
+Student
+	
+Samuel Quann
+	Samuel Quann 	
+12091
+	
+Student
+	
+Hunter Read
+	Hunter Read 	
+12091
+	
+Student
+	
+Scott Reeves
+	Scott Reeves 	
+12091
+	
+Student
+	
+Carson Reykdal
+	Carson Reykdal 	
+12091
+	
+Student
+	
+Graham Roberts
+	Graham Roberts 	
+12091
+	
+Student
+	
+Elliott Skomski
+	Elliott Skomski 	
+12091
+	
+Student
+	
+Oliver Smith-Denny
+	Oliver Smith-Denny 	
+12091
+	
+Student
+	
+Eric Stukenberg
+	Eric Stukenberg 	
+12091
+	
+Student
+	
+Luke Terry
+	Luke Terry 	
+12091
+	
+Student
+	
+Austin Tipton
+	Austin Tipton 	
+12091
+	
+Student
+	
+Summer Turner
+	Summer Turner 	
+11654
+	
+Student
+	
+Alvin Ung
+	Alvin Ung 	
+12091
+	
+Student
+	
+Lila Van Court
+	Lila Van Court 	
+11654
+	
+Student
+	
+Khoi Vu
+	Khoi Vu 	
+11654
+	
+Student
+	
+Jonah Wallace
+	Jonah Wallace 	
+12091
+	
+Student
+	
+Paul Weidner
+	Paul Weidner 	
+12091
+	
+Student
+	
+Tim Woods
+	Tim Woods 	
+11654
+	
+Student
+	
+Emily Wright
+	Emily Wright 	
+12091
+	
+Student
+	
+Lai Yan Yung
+	Lai Yan Yung 	
+11654
+	
+Student
+	
