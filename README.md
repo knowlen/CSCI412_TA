@@ -4,7 +4,7 @@ scripts used in grading for CSCI 412: Mobile Development at Western Washington U
 ##Install
 in Bash: 
 
-`<addr>`$git clone https://github.com/knowlen/CSCI412_TA.git
+`<$git clone https://github.com/knowlen/CSCI412_TA.git>`
 
 
 ##Overview
