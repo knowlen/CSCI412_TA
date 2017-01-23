@@ -20,17 +20,18 @@ Grading is done with pvgrader.py and parser.py.
 * *toText.sh*   
 This script converts all .pdf and .docx files of a specified directory (input\_directory) into .txt, and concatinates all peer evaulations into one text file.  
 Usage `$./toText.sh input_directory`  
-Arguements/Flags: [-h] input\_directory  
+Arguements/Flags: [-h], input\_directory  
 input\_directory: Path to the folder containing   
 
 * *QuickMatch.py*   
 Creates anonymous student pairings for peer review, as well as an assigned key value for each student.  
-Usage: 
-Arguements/Flage:  
+Usage: `$python QuickMath.py names_file out_dir`   
+Arguements/Flage: names\_file, out\_dir 
 
 * *parser.py*   
-Usage:  
+Usage: `$python parser.py` 
 Arguements/Flage:  
+
 * *pvgrader.py* 
 Usage:    
 Arguements/Flage:  
