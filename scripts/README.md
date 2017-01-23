@@ -8,10 +8,10 @@ This is a repository to house the scripts used in grading for CSCI 412: Mobile D
 This script converts all .pdf and .docx files of a specified directory (input\_directory) into .txt, and concatinates all peer evaulations into one text file.
 
 
-Usage: `$./toText.sh input_directory`
-Arguements/Flags: **[-h]** **input\_directory**
-input\_directory: Path to the folder containing 
-
+`Usage $./toText.sh input_directory
+Arguements/Flags: [-h] input_directory
+input_directory: Path to the folder containing 
+`
 ####scripts/ 
 Includes scripts for grading and pre-processing the survey forms. 
 
