@@ -6,6 +6,7 @@ Scripts Directory
 Copy/paste the People page (from "Name"-\>bottom of webpage) of the class Canvas into a text editor (Vim or Mousepad recommended), save to file.  
 Pass this file and an output directory to **QuickMatch.py**,  
 > **$**./QuickMatch.py names\_file output\_dir   
+
 This will create 3 files which represent 1 student-\>3 student pairings, and the randomized key value assigned to each student. 
 
 
