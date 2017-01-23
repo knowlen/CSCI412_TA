@@ -1,15 +1,15 @@
 # CSCI412_TA
-scripts used in grading for CSCI 412: Mobile Development at Western Washington University
+This is a repository to house the scripts used in grading for CSCI 412: Mobile Development at Western Washington University
 
 ###Install
-in Bash: 
+Just clone the repo in a directory of your choosing. Preferably on Linux. 
 
 `$git clone https://github.com/knowlen/CSCI412_TA.git`
 
 
 ###Overview
-####/examples 
-includes examples for input arguements and the outputs of each script.
-####/scripts 
-includes all scripts. 
+####examples/ 
+Includes examples for command line arguments and outputs for relevant scripts.
+####scripts/ 
+Includes scripts for grading and pre-processing the survey forms. 
 
