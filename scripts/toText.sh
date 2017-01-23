@@ -50,10 +50,10 @@ ls pdf_texts | wc;
 
 
 cd pdf_texts; 
-cat *.txt >> ./../../all_pdfs.txt;
+cat *.txt >> ./../all_pdfs.txt;
 cd ../doc_texts;
-cat *.txt >> ./../../all_docs.txt;
-cd ./../..;
+cat *.txt >> ./../all_docs.txt;
+cd ./..;
 cat *.txt >> all.txt;
 
 
